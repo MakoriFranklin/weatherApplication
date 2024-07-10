@@ -1,1 +1,0 @@
-const openWeatherAPI = '1edd1b3aba3b4744fe9f16998d8e8f06';
